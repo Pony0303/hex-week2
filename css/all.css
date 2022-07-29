@@ -139,7 +139,7 @@ body {
 .header ul h1 {
   padding-bottom: 32px;
 }
-.header ul .p2-b {
+.header ul .font2-b {
   padding-bottom: 40px;
 }
 .header ul .flex {
@@ -154,13 +154,13 @@ body {
   text-align: center;
   padding: 56px 0 28px 0;
 }
-.info .h2 {
+.info .title2 {
   padding-bottom: 40px;
 }
 .info img {
   padding-bottom: 20px;
 }
-.info .p2-b {
+.info .font2-b {
   padding-bottom: 24px;
 }
 .info .borderline {
@@ -190,13 +190,13 @@ body {
   color: #FFFFFF;
   padding: 56px 0 160px 0;
 }
-.brand .h2 {
+.brand .title2 {
   padding-bottom: 12px;
 }
-.brand .p1 {
+.brand .font1 {
   padding-bottom: 32px;
 }
-.brand .p3 {
+.brand .font3 {
   padding-bottom: 68px;
 }
 .brand .brand1 {
@@ -211,10 +211,10 @@ body {
   padding: 56px 0 120px 0;
   text-align: center;
 }
-.otherworks .h2 {
+.otherworks .title2 {
   padding-bottom: 16px;
 }
-.otherworks .p3 {
+.otherworks .font3 {
   padding-bottom: 56px;
 }
 .otherworks ul {
@@ -232,7 +232,7 @@ body {
   padding: 64px 0;
   text-align: center;
 }
-.footer .h2 {
+.footer .title2 {
   margin-bottom: 16px;
 }
 .footer li {

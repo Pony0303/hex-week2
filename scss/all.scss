@@ -1,0 +1,132 @@
+@import "fontsource";
+@import "reset";
+
+body{
+    font-family: "Roboto";
+    font-style: italic;
+}
+.container{
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header{
+    background-image: url(../images/banner.png);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    & ul{
+        max-width: 304px;
+        margin: 0 auto;
+        color:  #FFFFFF;
+        padding: 308px 0;
+        h1{
+            padding-bottom: 32px;
+        }
+        .p2-b{
+            padding-bottom: 40px;
+        }
+        .flex{
+            display: flex;
+            justify-content: space-between;
+            img{
+                height: 60px;
+            }
+        }
+
+    }
+    
+}
+
+.info{
+    text-align: center;
+    padding: 56px 0 28px 0;
+    .h2{
+        padding-bottom: 40px;
+    }
+    img{
+        padding-bottom: 20px;
+    }
+    & .p2-b{
+        padding-bottom: 24px;
+    }
+    .borderline{
+        max-width: 384px;
+        border-top: 1px solid #000;
+        margin: 0 auto;
+        padding-top: 28px;
+        
+        .dot {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            padding-bottom: 28px;
+        }
+          
+        .dot::before {
+            content:'';
+            width: 22px;
+            height: 22px;
+            background-color: #891818;
+            border-radius:50%;
+            margin-right: 16px;
+        }
+    }
+}
+
+.brand{
+    text-align: center;
+    background-color:#000000;
+    color: #FFFFFF;
+    padding: 56px 0 160px 0;
+    .h2{
+        padding-bottom: 12px;
+    }
+    .p1{
+        padding-bottom: 32px;
+    }
+    .p3{
+        padding-bottom: 68px;
+    }
+    .brand1{
+        padding-bottom: 40px;
+    }
+    .imgbox{
+        display: flex;
+        justify-content: space-between;
+
+    }
+}
+.otherworks{
+    padding: 56px 0 120px 0;
+    text-align: center;
+    .h2{
+        padding-bottom: 16px;
+    }
+    .p3{
+        padding-bottom: 56px;
+    }
+    ul{
+        display: flex;
+        flex-wrap: wrap;
+        gap: 24px;
+        .p4{padding-bottom: 24px;}
+    }
+}
+
+
+.footer{
+    background-color: #000000;
+    color: #FFFFFF;
+    padding: 64px 0;
+    text-align: center;
+    &.h2{
+        margin-bottom: 16px;
+    }
+    & li{
+        margin-bottom: 16px;
+        a{
+            color:  #FFFFFF;
+        }
+    }
+}

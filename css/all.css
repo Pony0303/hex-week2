@@ -1,46 +1,46 @@
-.h1 {
+.title1 {
   font-size: 80px;
   line-height: 106px;
   font-weight: 900;
 }
 
-.h2 {
+.title2 {
   font-size: 64px;
   line-height: 84px;
   font-weight: 500;
 }
 
-.p1-b {
+.font1-b {
   font-size: 24px;
   line-height: 42px;
   font-weight: bold;
 }
 
-.p1 {
+.font1 {
   font-size: 24px;
   line-height: 1.5;
   font-weight: 500;
 }
 
-.p2-b {
+.font2-b {
   font-size: 24px;
   line-height: 1.5;
   font-weight: bold;
 }
 
-.p2 {
+.font2 {
   font-size: 24px;
   line-height: 1.5;
   font-weight: 500;
 }
 
-.p3 {
+.font3 {
   font-size: 20px;
   line-height: 1.5;
   font-weight: 500;
 }
 
-.p4 {
+.font4 {
   font-size: 20px;
   line-height: 42px;
   font-weight: 500;
@@ -232,7 +232,7 @@ body {
   padding: 64px 0;
   text-align: center;
 }
-.footer.h2 {
+.footer .h2 {
   margin-bottom: 16px;
 }
 .footer li {

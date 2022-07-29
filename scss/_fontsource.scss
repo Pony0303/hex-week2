@@ -5,42 +5,42 @@ $font-s:20px;
 $lh-m:1.5;
 $lh-l:42px;
 
-.h1{
+.title1{
     font-size: 80px;
     line-height: 106px;
     font-weight: 900;  
 }
-.h2{
+.title2{
     font-size: 64px;
     line-height:84px;
     font-weight: 500;
 }
-.p1-b{
+.font1-b{
     font-size: $font-m;
     line-height: $lh-l;
     font-weight: bold;
 }
-.p1{
+.font1{
     font-size: $font-m;
     line-height: $lh-m;
     font-weight: 500;
 }
-.p2-b{
+.font2-b{
     font-size: $font-m;
     line-height: $lh-m;
     font-weight: bold;
 }
-.p2{
+.font2{
     font-size: $font-m;
     line-height: $lh-m;
     font-weight: 500;
 }
-.p3{
+.font3{
     font-size: $font-s;
     line-height: $lh-m;
     font-weight: 500;
 }
-.p4{
+.font4{
     font-size: $font-s;
     line-height: $lh-l;
     font-weight: 500;

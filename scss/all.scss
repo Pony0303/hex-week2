@@ -15,7 +15,7 @@ body{
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
-    & ul{
+    ul{
         max-width: 304px;
         margin: 0 auto;
         color:  #FFFFFF;
@@ -120,10 +120,10 @@ body{
     color: #FFFFFF;
     padding: 64px 0;
     text-align: center;
-    &.h2{
+    .h2{
         margin-bottom: 16px;
     }
-    & li{
+    li{
         margin-bottom: 16px;
         a{
             color:  #FFFFFF;
